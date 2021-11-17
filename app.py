@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-from outro import nome
 
 app = Flask(__name__)  # sao 2 underlines antes e 2 depois
 
